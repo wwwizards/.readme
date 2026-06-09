@@ -1,4 +1,4 @@
-# the origins of wwwizards & LogicWizards.ai-labs
+# THE ORIGINS: wwwizards & LogicWizards.ai-labs
 
 I am pleased to share with you my bag-o-tricks. There are lots of tools here and many of them are made to complement one another. When you find one you want to use, I would suggest cloning it into a directory on your file system (I have  many in a TOOLS folder next to my PROJECTS folder) and outside of any other REPO - so that you can pull the latest and/or revert to a previous (tagged release) version(s) as needed. of course there are many ways to setup nested repos and submodules. these advanced topics are very well covered in [Pro Git Book - which is also FREE](https://git-scm.com/book/en/v2)
 
